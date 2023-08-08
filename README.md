@@ -1,4 +1,4 @@
-#🗨️[Paint-Clone Website][([https://porto.profidesigner.eu/quote-generator/])
+#🗨️[Paint-Clone Website]([https://porto.profidesigner.eu/quote-generator/])
 ---
 # Technologies Used:
 
